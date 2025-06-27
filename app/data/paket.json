@@ -1,0 +1,442 @@
+[
+  {
+    "nama_paket": "outbond",
+    "deskripsi": "Rasakan kegembiraan dan tantangan dengan kegiatan outbound di Kemuning. Cocok untuk kelompok atau perusahaan yang ingin meningkatkan kekompakkan dan kerjasama tim. Nikmati berbagai aktivitas seru dan permainan tim yang menantang di tengah di keindahan alam Kemuning",
+    "background": "/landing/paket/outbond.png",
+    "kelas": [
+      {
+        "level": "Fun",
+        "deskripsi": "Paket dasar untuk pengalaman outbond yang seru dan menyenangkan",
+        "harga": 75000,
+        "benefit": [
+          "Welcome Drink & Snack",
+          "Arena Outbound",
+          "Pemandu Dan Trainer",
+          "Perlengkapan Game",
+          "Aktifitas Outbound & Fun Game",
+          "Dokumentasi"
+        ]
+      },
+      {
+        "level": "Complete",
+        "deskripsi": "Paket lengkap dengan tambahan fasilitas untuk kenyamanan lebih",
+        "harga": 110000,
+        "benefit": [
+          "Aula Resto",
+          "Makan Siang"
+        ]
+      },
+      {
+        "level": "Combo",
+        "deskripsi": "Paket kombinasi dengan tambahan petualangan yang menarik",
+        "harga": 165000,
+        "benefit": [
+          "River Tubing",
+          "Oleh-Oleh Teh Kemuning",
+          "Shuttle"
+        ]
+      }
+    ],
+    "galeri": [
+      "/galeri/outbond/1.JPG",
+      "/galeri/outbond/2.JPG",
+      "/galeri/outbond/3.JPG",
+      "/galeri/outbond/4.JPG",
+      "/galeri/outbond/5.JPG",
+      "/galeri/outbond/6.JPG",
+      "/galeri/outbond/7.JPG",
+      "/galeri/outbond/8.jpg",
+      "/galeri/outbond/9.jpg",
+      "/galeri/outbond/10.jpg",
+      "/galeri/outbond/11.jpg",
+      "/galeri/outbond/12.jpg"
+    ]
+  },
+  {
+    "nama_paket": "jeep-adventure",
+    "deskripsi": "Jelajahi keindahan alam Kemuning dengan mengendarai jeep dan melewati jalur-jalur yang menantang. Selain itu, Anda juga dapat menikmati keindahan kebun teh hingga panorama Gunung Lawu. Cocok bagi Anda yang menyukai tantangan dan mencari keseruan di alam terbuka. Selain itu, Anda juga dapat menikmati pemandangan alam",
+    "background": "/landing/paket/jeep.png",
+    "kelas": [
+      {
+        "level": "Short",
+        "deskripsi": "Paket jeep adventure dengan rute pendek yang mengasyikkan",
+        "harga": 350000,
+        "benefit": [
+          "Eksplore Teh Kemuning",
+          "Jembatan Kaca Sky Hills",
+          "Puncak Paralayang"
+        ]
+      },
+      {
+        "level": "Short Offroad",
+        "deskripsi": "Paket jeep adventure dengan rute pendek yang menantang melalui medan offroad",
+        "harga": 400000,
+        "benefit": [
+          "Eksplor Kebun Teh - Offroad Lumpur & Sungai Jimber Park",
+          "Offroad Hutan Pinus"
+        ]
+      },
+      {
+        "level": "Medium",
+        "deskripsi": "Paket jeep adventure dengan rute menengah eksplorasi alam",
+        "harga": 450000,
+        "benefit": [
+          "Puncak Paralayang - Eksplor Kebun Teh",
+          "Jembatan Kaca (Sky Hills) - Eksplor Kebun Teh",
+          "Air Terjun Jumog - Eksplor Kebun Teh"
+        ]
+      },
+      {
+        "level": "Medium Offroad",
+        "deskripsi": "Paket jeep adventure dengan rute menengah yang menggabungkan eksplorasi alam dan offroad",
+        "harga": 500000,
+        "benefit": [
+          "Jembatan Kaca - Eksplor Kebun Teh - Offroad Lumpur & Sungai Jimber Park",
+          "Air Terjun Jumog - Offroad Lumpur & Sungai Jimber Park"
+        ]
+      },
+      {
+        "level": "Medium Plus",
+        "deskripsi": "Paket jeep adventure menengah dengan tambahan rute dan fasilitas eksklusif",
+        "harga": 600000,
+        "benefit": [
+          "Offroad Hutan Pinus - Puncak Paralayang - Eksplore Kebun Teh - Offroad Lumpur & Sungai Jimber Park",
+          "Candi Cetho - Jembatan Kaca - Eksplor Kebun Teh - Offroad Lumpur & Sungai Jimber Park",
+          "Candi Sukuh - Air Terjun Jumog/Telaga Madirda - Eksplor Kebun Teh - Offroad Lumpur & Sungai Jimber Park"
+        ]
+      },
+      {
+        "level": "Long",
+        "deskripsi": "Paket jeep adventure dengan rute panjang yang mencakup berbagai destinasi menarik",
+        "harga": 750000,
+        "benefit": [
+          "Offroad Hutan Pinus - Puncak Paralayang - Candi Cetho - Jembatan Kaca - Offroad Lumpur & Sungai Jimber Park",
+          "Telaga Madirda - Air Terjun Jumog - Tahura - Trabas Hutan Pinus - Offroad Hutan Pinus - Puncak Paralayang - Eksplore Kebun Teh - Offroad Lumpur & Sungai Jimber Park"
+        ]
+      },
+      {
+        "level": "Full Day",
+        "deskripsi": "Paket jeep adventure seharian penuh, memberikan kebebasan eksplorasi dengan berbagai pilihan rute",
+        "harga": 1400000,
+        "benefit": [
+          "Booking Jeep Seharian",
+          "Bebas Wisata Mana Saja (Non-Include HTM)",
+          "Include Makan 2x dan Snack"
+        ]
+      }
+    ],
+    "galeri": [
+      "/galeri/jeep-adventure/1.JPG",
+      "/galeri/jeep-adventure/2.JPG",
+      "/galeri/jeep-adventure/3.JPG",
+      "/galeri/jeep-adventure/4.JPG",
+      "/galeri/jeep-adventure/5.JPG",
+      "/galeri/jeep-adventure/6.JPG",
+      "/galeri/jeep-adventure/7.JPG",
+      "/galeri/jeep-adventure/8.jpg",
+      "/galeri/jeep-adventure/9.jpg",
+      "/galeri/jeep-adventure/10.JPG",
+      "/galeri/jeep-adventure/11.JPG",
+      "/galeri/jeep-adventure/12.JPG"
+    ]
+  },
+  {
+    "nama_paket": "wisata-alam",
+    "deskripsi": "Temukan panorama keindahan Kemuning dengan menjelajahi wisata alam, wisata air hingga wisata budaya yang ada di lereng Gunung Lawu. Cocok bagi Anda yang ingin melepas penat dengan menikmati suguhan pesona alam Kemuning yang menakjubkan",
+    "background": "/landing/paket/wisata.png",
+    "kelas": [
+      {
+        "level": "Friendly",
+        "deskripsi": "Paket wisata alam dasar dengan pengalaman yang nyaman dan menyenangkan",
+        "harga": 165000,
+        "benefit": [
+          "Welcome Drink & Snack",
+          "Jembatan Kaca (Sky Hills)",
+          "Paralayang + Coffee Break",
+          "Dokumentasi",
+          "Transportasi"
+        ]
+      },
+      {
+        "level": "Fun",
+        "deskripsi": "Paket wisata alam dengan tambahan aktivitas seru dan makan siang",
+        "harga": 240000,
+        "benefit": [
+          "River Tubing Fun",
+          "Telaga Madirda",
+          "Aula Resto",
+          "Makan Siang"
+        ]
+      },
+      {
+        "level": "Exciting",
+        "deskripsi": "Paket wisata alam dengan aktivitas yang lebih ekstrim dan pemandangan menakjubkan",
+        "harga": 285000,
+        "benefit": [
+          "River Tubing Semi Ekstrim (- River Tubing Fun)",
+          "Air Terjun Jumog",
+          "Shuttle"
+        ]
+      },
+      {
+        "level": "Wild",
+        "deskripsi": "Paket wisata alam lengkap dengan aktivitas dan fasilitas tambahan untuk pengalaman penuh",
+        "harga": 320000,
+        "benefit": [
+          "River Tubing Ekstrim (- River Tubing Semi Ekstrim)",
+          "Oleh-Oleh Teh Kemuning"
+        ]
+      }
+    ],
+    "galeri": [
+      "/galeri/wisata-alam/1.jpg",
+      "/galeri/wisata-alam/2.jpg",
+      "/galeri/wisata-alam/3.jpg",
+      "/galeri/wisata-alam/4.jpg",
+      "/galeri/wisata-alam/5.JPG",
+      "/galeri/wisata-alam/6.JPG",
+      "/galeri/wisata-alam/7.JPG",
+      "/galeri/wisata-alam/8.jpg",
+      "/galeri/wisata-alam/9.jpg",
+      "/galeri/wisata-alam/10.jpg",
+      "/galeri/wisata-alam/11.JPG",
+      "/galeri/wisata-alam/12.JPG"
+    ]
+  },
+  {
+    "nama_paket": "wisata-candi",
+    "deskripsi": "Jelajahi situs sejarah dengan pemandangan candi-candi bersejarah dan pengalaman budaya",
+    "background": "/landing/paket/candi.png",
+    "kelas": [
+      {
+        "level": "History",
+        "deskripsi": "Paket dasar untuk mengunjungi satu candi",
+        "harga": 75000,
+        "benefit": [
+          "Welcome Drink & Snack",
+          "Candi Cetho / Candi Sukuh",
+          "Transportasi"
+        ]
+      },
+      {
+        "level": "Complete",
+        "deskripsi": "Paket lengkap dengan tambahan kunjungan dan makan siang",
+        "harga": 135000,
+        "benefit": [
+          "Candi Cetho & Candi Sukuh",
+          "Aula Resto",
+          "Makan Siang",
+          "Oleh-Oleh Teh Kemuning",
+          "Shuttle"
+        ]
+      }
+    ],
+    "galeri": [
+      "/galeri/wisata-candi/1.JPG",
+      "/galeri/wisata-candi/2.JPG",
+      "/galeri/wisata-candi/3.JPG",
+      "/galeri/wisata-candi/4.jpg",
+      "/galeri/wisata-candi/5.jpg",
+      "/galeri/wisata-candi/6.jpg",
+      "/galeri/wisata-candi/7.jpg",
+      "/galeri/wisata-candi/8.jpg",
+      "/galeri/wisata-candi/9.jpg",
+      "/galeri/wisata-candi/10.jpg",
+      "/galeri/wisata-candi/11.jpg",
+      "/galeri/wisata-candi/12.jpg"
+    ]
+  },
+  {
+    "nama_paket": "ultimate-wisata",
+    "deskripsi": "Paket wisata lengkap dengan berbagai aktivitas dan destinasi menarik untuk pengalaman tak terlupakan",
+    "background": "/landing/paket/ultimate.png",
+    "kelas": [
+      {
+        "level": "Adventurous",
+        "deskripsi": "Paket ultimate dengan pengalaman menyeluruh, meliputi semua aktivitas dan tempat wisata utama",
+        "harga": 400000,
+        "benefit": [
+          "Welcome Drink & Snack",
+          "Dokumentasi",
+          "Transportasi",
+          "Aula Resto",
+          "Makan Siang",
+          "Candi Cetho",
+          "Jembatan Kaca Sky Hills",
+          "Paralayang",
+          "Air Terjun Jumog",
+          "Telaga Madirda",
+          "Candi Sukuh",
+          "River Tubing",
+          "Oleh-Oleh Teh Kemuning"
+        ]
+      }
+    ],
+    "galeri": [
+      "/galeri/ultimate-wisata/1.jpg",
+      "/galeri/ultimate-wisata/2.jpg",
+      "/galeri/ultimate-wisata/3.jpg",
+      "/galeri/ultimate-wisata/4.jpg",
+      "/galeri/ultimate-wisata/5.jpg",
+      "/galeri/ultimate-wisata/6.JPG",
+      "/galeri/ultimate-wisata/7.JPG",
+      "/galeri/ultimate-wisata/8.jpg",
+      "/galeri/ultimate-wisata/9.jpg",
+      "/galeri/ultimate-wisata/10.jpg",
+      "/galeri/ultimate-wisata/11.JPG",
+      "/galeri/ultimate-wisata/12.JPG"
+    ]
+  },
+  {
+    "nama_paket": "mini-zoo",
+    "deskripsi": "Ajak keluarga dan teman untuk mengenal sekaligus berinteraksi langsung dengan berbagai satwa di Taman Satwa Kemuning (Mini Zoo). Cocok bagi Anda yang ingin berwisata sekaligus belajar sambil menikmati pemandangan alam sekitar",
+    "background": "/landing/paket/zoo.png",
+    "kelas": [
+      {
+        "level": "Education",
+        "deskripsi": "Paket dasar dengan edukasi tentang satwa di taman satwa",
+        "harga": 75000,
+        "benefit": [
+          "Welcome Drink & Snack",
+          "Tiket Masuk Taman Satwa Kemuning",
+          "Pakan Hewan",
+          "Edukasi Satwa",
+          "Dokumentasi"
+        ]
+      },
+      {
+        "level": "Plus",
+        "deskripsi": "Paket lengkap dengan tambahan aktivitas dan fasilitas untuk pengalaman yang lebih seru",
+        "harga": 150000,
+        "benefit": [
+          "Aula Resto",
+          "Makan Siang",
+          "Panahan",
+          "Outbound"
+        ]
+      }
+    ],
+    "galeri": [
+      "/galeri/placeholder.jpg",
+      "/galeri/placeholder.jpg",
+      "/galeri/placeholder.jpg",
+      "/galeri/placeholder.jpg",
+      "/galeri/placeholder.jpg",
+      "/galeri/placeholder.jpg",
+      "/galeri/placeholder.jpg",
+      "/galeri/placeholder.jpg",
+      "/galeri/placeholder.jpg",
+      "/galeri/placeholder.jpg",
+      "/galeri/placeholder.jpg",
+      "/galeri/placeholder.jpg"
+    ]
+  },
+  {
+    "nama_paket": "kebun-teh",
+    "deskripsi": "Untuk Anda yang mencintai setiap tegukan teh, selamat datang di Kemuning, tempat di mana dedaunan hijau memanjakan mata dan aroma teh yang menyegarkan jiwa. Nikmati keindahan dan ketenangan kebun teh Kemuning sekaligus belajar mengenal tentang teh, produksi teh, hingga budaya minum teh. Anda juga dapat mendapatkan pengalaman memetik teh dan mecicipi teh segar yang baru diproses. Sempurna untuk Anda yang mencari ketenangan dan relaksasi",
+    "background": "/landing/paket/teh.png",
+    "kelas": [
+      {
+        "level": "Culture",
+        "deskripsi": "Paket dasar untuk menikmati budaya teh dan eksplorasi kebun teh",
+        "harga": 75000,
+        "benefit": [
+          "Welcome Drink & Snack",
+          "Exploring Kebun Teh (Jimber/Sky Hills)",
+          "Lembah Sumilir/Kalimas",
+          "Transportasi",
+          "Dokumentasi"
+        ]
+      },
+      {
+        "level": "Plus",
+        "deskripsi": "Paket lengkap dengan tambahan aktivitas dan makan siang",
+        "harga": 135000,
+        "benefit": [
+          "Aula Resto",
+          "Makan Siang",
+          "Edukasi Produksi Teh UMKM",
+          "Oleh-Oleh Teh Kemuning"
+        ]
+      }
+    ],
+    "galeri": [
+      "/galeri/kebun-teh/1.JPG",
+      "/galeri/kebun-teh/1.JPG",
+      "/galeri/kebun-teh/1.JPG",
+      "/galeri/kebun-teh/1.JPG",
+      "/galeri/kebun-teh/1.JPG",
+      "/galeri/kebun-teh/1.JPG",
+      "/galeri/kebun-teh/1.JPG",
+      "/galeri/kebun-teh/1.JPG",
+      "/galeri/kebun-teh/1.JPG",
+      "/galeri/kebun-teh/1.JPG",
+      "/galeri/kebun-teh/1.JPG",
+      "/galeri/kebun-teh/1.JPG"
+    ]
+  },
+  {
+    "nama_paket": "complete",
+    "deskripsi": "Tidak bisa memilih satu? Nikmati semuanya! Gabungkan petualangan mulai dari jeep, outbound, hingga jelajah kebun teh dalam satu paket lengkap yang akan memberikan Anda pengalaman wisata yang menyeluruh dan memuaskan. Cocok untuk Anda yang ingin mengeksplorasi semua keajaiban Kemuning dalam satu perjalanan",
+    "background": "/landing/paket/complete.png",
+    "kelas": [
+      {
+        "level": "Compact",
+        "deskripsi": "Paket dasar dengan berbagai aktivitas petualangan",
+        "harga": 160000,
+        "benefit": [
+          "Welcome Drink & Snack",
+          "Aula Resto",
+          "Makan Siang",
+          "Jeep Short",
+          "Dokumentasi"
+        ]
+      },
+      {
+        "level": "Fun",
+        "deskripsi": "Paket lengkap dengan tambahan aktivitas dan fasilitas",
+        "harga": 250000,
+        "benefit": [
+          "Outbound",
+          "Tubing Fun"
+        ]
+      },
+      {
+        "level": "Exciting",
+        "deskripsi": "Paket lengkap dengan pengalaman lebih ekstrim dan aktivitas tambahan",
+        "harga": 310000,
+        "benefit": [
+          "Tubing Semi Ekstrim (- Tubing Fun)",
+          "Jembatan Kaca (Sky Hills)",
+          "Candi Cetho",
+          "Jeep Medium Plus (- Jeep Short)"
+        ]
+      },
+      {
+        "level": "Ultimate",
+        "deskripsi": "Paket ultimate dengan semua aktivitas dan fasilitas untuk pengalaman terbaik",
+        "harga": 500000,
+        "benefit": [
+          "Tubing Ekstrim (- Tubing Semi Ekstrim)",
+          "Jeep Long (- Jeep Medium Plus)",
+          "Candi Sukuh (- Candi Cetho)",
+          "Air Terjun Jumog/Telaga Madirda"
+        ]
+      }
+    ],
+    "galeri": [
+      "/galeri/complete/1.JPG",
+      "/galeri/complete/2.JPG",
+      "/galeri/complete/3.JPG",
+      "/galeri/complete/4.jpg",
+      "/galeri/complete/5.jpg",
+      "/galeri/complete/6.jpg",
+      "/galeri/complete/7.jpg",
+      "/galeri/complete/8.jpg",
+      "/galeri/complete/9.jpg",
+      "/galeri/complete/10.JPG",
+      "/galeri/complete/11.JPG",
+      "/galeri/complete/12.jpg"
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "path": "/landing/testimoni/user1.PNG",
+        "alt": "User 1",
+        "name": "Laras (55 tahun)",
+        "job": "Guru",
+        "review": "Saya sangat terkesan dengan layanan yang diberikan oleh Wonderland Kemuning. Mereka sukses mengatur acara outbound dan wisata kami dengan super rapi dan profesional. Semua detail, mulai dari transportasi, akomodasi, penginapan sampai aktivitas outbound diatur dengan baik. Tim mereka juga sangat responsif, tiap ada pertanyaan atau permintaan langsung ditanggapin, mereka juga memastikan semua peserta nyaman dan senang.  Games-games yang diberikan saat outbound juga seru banget, bisa menambah kekompakan tim. Intinya, bisa memberikan pengalaman yang tak terlupakan. Saya sangat merekomendasikan Wonderland Kemuning kepada teman-teman yang ingin melaksanakan acara bonding atau outbound."
+    },
+    {
+        "path": "/landing/testimoni/user2.jpg",
+        "alt": "User 2",
+        "name": "Sinta (47 tahun)",
+        "job": "Pengusaha",
+        "review": "Secara keseluruhan, saya cukup puas dengan pelayanan dari Wonderland Kemuning. Mulai dari admin yang fast response, transportasi dan akomodasi yang oke, fotografer yang mantap, dan semua acara berjalan sesuai dengan rundown. Pas outbound pun, teman-teman juga terlihat sangat happy. Apalagi pas ke river tubing, wahh itu seru banget bisa bersenang-senang sambil main air. Saya akan merekomendasikan Wonderland Kemuning ke rekan-rekan saya yang lainnya."
+    },
+    {
+        "path": "/landing/testimoni/user3.png",
+        "alt": "User 3",
+        "name": "Dito (21 tahun)",
+        "job": "Mahasiswa",
+        "review": "Super sure! Bener-bener nggak nyangka outbound nya bakal se-fun ini. Acaranya nggak membosankan, trainernya juga asik dan games yang diberikan juga menarik. Supir jeep nya juga ramah-ramah dan track nya juga lumayan menantang. Semua crew nya responsif. Sebagai mahasiswa tingkat akhir, jujur mumet banget mikir skripsi, trus refreshing ke Kemuning asik banget. Nggak nyesel jauh-jauh datang ke sini trus disambut dengan pemandangan yang bagus juga. Sukses trus Wonderland Kemuning."
+    }
+]
